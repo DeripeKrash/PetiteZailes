@@ -16,5 +16,5 @@ Touch the screen on phone or press the space bar on keyborad to increase your fa
 
 ## Credits
 
-FIGEREIDO Alex           
+FIGUEIREDO Alex           
 PETIT Denis               
